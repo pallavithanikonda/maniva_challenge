@@ -214,7 +214,7 @@ scipy==1.5.0
 seaborn==0.10.1
 Send2Trash==1.5.0
 sentencepiece==0.1.91
-setuptools==49.2.0.post20200714
+setuptools==65.5.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.15.0
